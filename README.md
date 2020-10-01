@@ -1,2 +1,2 @@
 # new
-This Contains a TXT file.
+This Contains a shopping list.
